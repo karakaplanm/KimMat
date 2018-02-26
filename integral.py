@@ -1,3 +1,6 @@
+'''
+Integral hesaplama
+'''
 import sympy as sm
 x=sm.Symbol('x')
 f='2*x**2+3*x-1'
